@@ -1,0 +1,262 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "position": "",
+            "looking": 0
+        },
+        {
+            "id": 502578674,
+            "position": "looking",
+            "looking": 20
+        },
+        {
+            "id": 451348250,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 340602122,
+            "position": "looking",
+            "looking": 16
+        },
+        {
+            "id": 1170312241,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 451268253,
+            "position": "looking",
+            "looking": 3
+        },
+        {
+            "id": 982016920,
+            "position": "looking",
+            "looking": 16
+        },
+        {
+            "id": 810121389,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 904948205,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 1294775890,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 500987290,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 988784260,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 461225635,
+            "position": "looking",
+            "looking": 11
+        },
+        {
+            "id": 843797703,
+            "position": "buying",
+            "looking": 24
+        },
+        {
+            "id": 598117556,
+            "position": "looking",
+            "looking": 24
+        },
+        {
+            "id": 1119024935,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 1060003335,
+            "position": "looking",
+            "looking": 17
+        },
+        {
+            "id": 312395665,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 1188287530,
+            "position": "looking",
+            "looking": 1
+        },
+        {
+            "id": 794105053,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 649369573,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 678964490,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 400471535,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 1247484893,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 1529923683,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 1117188172,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 794136908,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 961061391,
+            "position": "looking",
+            "looking": 25
+        },
+        {
+            "id": 588747674,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 619442832,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 1415005977,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 525200032,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 1341713461,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 683490265,
+            "position": "looking",
+            "looking": 16
+        },
+        {
+            "id": 835363011,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 1189206978,
+            "position": "sub_main",
+            "looking": 0
+        },
+        {
+            "id": 969367426,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 594356631,
+            "position": "main",
+            "looking": 0
+        },
+        {
+            "id": 509687712,
+            "position": "looking",
+            "looking": 3
+        },
+        {
+            "id": 910309846,
+            "position": "buying",
+            "looking": 2
+        },
+        {
+            "id": 1398009762,
+            "position": "looking",
+            "looking": 3
+        },
+        {
+            "id": 1066028011,
+            "position": "sub_main",
+            "looking": 0
+        }
+    ],
+    "id_list": [
+        502578674,
+        451348250,
+        340602122,
+        1170312241,
+        451268253,
+        982016920,
+        810121389,
+        904948205,
+        1294775890,
+        500987290,
+        988784260,
+        461225635,
+        843797703,
+        598117556,
+        1119024935,
+        1060003335,
+        312395665,
+        1188287530,
+        794105053,
+        649369573,
+        678964490,
+        400471535,
+        1247484893,
+        1529923683,
+        1117188172,
+        794136908,
+        961061391,
+        588747674,
+        619442832,
+        1415005977,
+        525200032,
+        1341713461,
+        683490265,
+        835363011,
+        1189206978,
+        969367426,
+        594356631,
+        509687712,
+        910309846,
+        1398009762,
+        1066028011
+    ],
+    "smeta": {
+        "total_income": 0,
+        "potential_income": 0,
+        "users_count": 0
+    }
+}
